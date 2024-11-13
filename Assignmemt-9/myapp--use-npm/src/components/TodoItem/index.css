@@ -1,0 +1,20 @@
+.paragraph{
+     font-size: 15px;
+     margin-left: 130px;
+}
+
+.list{
+    display: flex;
+    justify-content: space-between;
+    width: 100vmin;
+    margin-top: 20px;
+}
+
+.button{
+    margin-right: 100px;
+    border-color: rgb(238, 72, 72);
+    color:rgb(238, 72, 72);
+    height: 25px;
+    width: 60px;
+    border-radius: 5px;
+}

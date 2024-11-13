@@ -1,0 +1,74 @@
+.maincontainer{
+  height: 100vh;
+  background-color: white;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.subcontainer{
+    height: 60vh;
+    width:50vh;
+    background-color: rgb(38, 38, 59);
+    border-radius: 15px;
+}
+.firstdiv{
+    display: flex;
+    margin-top: 10px;
+}
+.sdiv{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    background-color: aquamarine;
+    color: blueviolet;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.search{
+    color: rgb(153, 150, 150);
+    font-size: 20px;
+    font-weight: 300;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+
+.seconddiv{
+    display: flex;
+    justify-content: space-between;
+}
+.your{
+    color:rgb(141, 135, 135);
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 30px;
+    padding-top: 50px;
+}
+.balance{
+    margin-right: 40px;
+    font-size: 40px;
+    color: rgb(126, 122, 122);
+}
+.p{
+   display: flex;
+   justify-content: flex-end;
+   margin-top: 0px;
+   margin-right: 40px;
+}
+.wtd{
+    font-size: 20px;
+    color: white;
+    margin-left: 30px;
+}
+.para{
+    color: rgb(97, 94, 94);
+    margin-left: 30px;
+}
+
+.rajesh{
+    display: flex;
+    flex-wrap: wrap;
+}

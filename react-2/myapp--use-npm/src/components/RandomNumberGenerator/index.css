@@ -1,0 +1,42 @@
+.outerDivision{
+    background-color: rgb(227, 228, 228);
+    height: 100vh;
+   align-items: center;
+    display: flex;
+     justify-content: center;  
+}
+
+.innerDivision{
+    height: 40vh;
+    border-radius: 10px;
+    width: 40vh;
+    background-color: white;
+    text-align: center;
+    border: 0.5px solid rgb(214, 214, 214);
+    display: inline-block;
+}
+.heading{
+    color: blue;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.content{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.button{
+    background-color: blue;
+    color: white;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 15px;
+    border: none;
+}
+
+.change{
+     font-size: 40px;
+     margin-top: 35px;
+     color: blue;
+}

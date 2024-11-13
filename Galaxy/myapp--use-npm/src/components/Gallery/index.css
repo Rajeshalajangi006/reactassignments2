@@ -1,0 +1,14 @@
+.bigimage{
+    height: 500px;
+    width:600px;
+    background-size: cover;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.maincontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

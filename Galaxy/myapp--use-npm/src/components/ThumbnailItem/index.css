@@ -1,0 +1,5 @@
+.lowerimages{
+    display: flex;
+    display: inline-block;
+    flex-direction: row;
+}
